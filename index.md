@@ -16,3 +16,7 @@ let myVar = "Hello World";
 ```python
 data = "Hello World"
 ```
+
+- [X] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
